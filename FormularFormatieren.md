@@ -22,9 +22,17 @@ X, Dokumenatarfilm, X, Lehr-Schulungsfilm, X, All Media, X, Intranet = 8
 
 Das ist also eindeutig die zeile unterhalb "Bitte angeben", mit den X-Feldern
 
-Also die ersten 8 Spalten im  Worksheet auf die entsprechende Breite ändern: (Ändern der Splatenbreite durch Rechtsklick auf den Splatenzwischenraum in der Splatenüberschrift (graue Zeile ganz oben))
+Also die ersten 8 Spalten im Worksheet auf die entsprechende Breite ändern: (Ändern der Splatenbreite durch Rechtsklick auf den Splatenzwischenraum in der Splatenüberschrift (graue Zeile ganz oben))
 
-3, 18, 3, 18, 3, 18, 3, 18
+1, 3, 18, 3, 18, 3, 18, 3, 18, 1
+
+(Die erste und letzte Splate dient nur als Abstandshalter zum Rand und erhält die Breite 1)
+
+Die Splatenbreite eienr Zelle kann man übrigens exalt festelegen, indem man bei der entsprechenden Spalte mit der rechten Maustaste auf die Splatenüberschrift klickt und dann "Splatenbreite" auswählt.
+
+![Formatierungsblock](ColumnWidth.png)
+
+Das Ergebi´nis sieht dann also so aus:
 
 ![Formatierungsblock](Formular01.PNG)
 
