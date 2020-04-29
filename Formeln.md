@@ -4,7 +4,7 @@ Das Excel mit Formeln umgehen kann, ist vermutlich nichts großartig neues. Eine
 
 z.B.: Ich habe in einer Zelle den Wert 3 und in einer anderen Zelle (egal wo) einen anderen Wert und ich mövhte die beiden addieren, sieht das so aus:
 
-![Formeln01](Formeln01.png)
+![Formeln01](Formeln01.PNG)
 
 3 + 5
 
@@ -20,7 +20,7 @@ A3 heißt: Die Splate A, die dritte Zeile, bzw. was dort drinnen steht.
 
 Würde man nun die Formel in Zelle A5 nach rechts kopieren, zählt Excel automatisch die Spalten ebenfalls in die höhe. (A, B, C, D, ...)
 
-![Formeln02](Formeln02.png)
+![Formeln02](Formeln02.PNG)
 
 Das macht Excel automatisch für uns. Das funktioniert in alle Richtungen, waagerecht oder senkrecht. Das ist sehr praktisch, weil man so Formeln über reinen BEreich einfach nach unten, oben, unten, links oder rechts ziehen kann und Excel geht in den Zeilen und Spalten automatsich weiter.
 
@@ -34,7 +34,7 @@ $E$1 heißt: Bleib immer in der Zelle E1. Würde man das nicht angeben, würde E
 
 Shortcut für diese Funktion ist die F4-Taste. Also einfach die Zelle in der Formel eingeben und dann F4 drücken, dann spart man sich die Eingabe der $-Zeichen.
 
-![Formeln03](Formeln03.png)
+![Formeln03](Formeln03.PNG)
 
 Das gilt für Splaten und Zeilen separat.
 
@@ -52,7 +52,7 @@ Funktionen können in Formeln verwendet werden. Eine Formel kann auch nur aus ei
 
 Klickt man hier, wird ein Dialog geöffnet in dem man eine Funktion auswählen kann:
 
-![Formeln04](Formeln04.png)
+![Formeln04](Formeln04.PNG)
 
 Es gibt in Excel davon sehr viele und es würde den Rahmen sprengen, diese alle zu beschreiben. Wir werden uns nur mit den wichtigsten beschäftigen.
 
@@ -62,7 +62,7 @@ Die Summen-Funktion ist quasi das gleiche wie oben. A1+A2+A3+A4.
 
 Soweit so gut, möchte man aber die Summe über 1.283 Zeilen wissen, tippt man relativ lange. Das geht einfacher:
 
-![Formeln05](Formeln05.png)
+![Formeln05](Formeln05.PNG)
 
 Kurze Erklärung dazu. In der Zelle B9 möchte ich die Summe über alle Zellen darüber bilden. Das geht mit der Summe-Funktion. Die Zelle B9 enthält also nur eine einzige Funktion, nämlich SUMME (in meiner Englischen Version SUM). In der Klammer stehen die Parameter. Die Summe soll also über den Bereich B2 bis B8 berechnet werden. Also alle Werte in diesem bereich sollen addiert werden. Jede Funktion hat natürlich ihre eigenen Parameter. Möchte man eine Funktion benutzen, sollte man über die Parameter dieser Funktion bescheid wissen. Excel bietet dazu einige Informatonen, aber nicht sehr detailliert. Man muss wissen wan man tut. Wenn man sich hier auf Neuland begibt, bleibt einem googeln nicht erspart.
 
@@ -72,7 +72,7 @@ Kurze Erklärung dazu. In der Zelle B9 möchte ich die Summe über alle Zellen d
 
 Die WENN-Funktion zum Beispiel, benötigt 3 Parameter. Der erste ist die Bedingung (wie eine IF-Beingung in Java), der 2. Parameteer ist der DANN-Zweig, der dritte Parameter der SONST-Zweig (ELSE).
 
-![Formeln06](Formeln06.png)
+![Formeln06](Formeln06.PNG)
 
 Diese Beispiel schreibt in die Zelle C3, ob der Wert in Zelle B3 kleiner oder größer 5 ist.
 
