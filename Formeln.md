@@ -98,7 +98,7 @@ Das ist bestimmt die schwierigste Übung, da hier sehr viel überlegt werden mus
 
 ### Arbeitsblatt: SVERWEIS
 
-Der SVERWEIS ist so etwas wie eine Suche. Aus den Spalten F und G wird die Splate C mit Werten befüllt. Splate C wir aus der Spalte G befüllt, wenn der Wert in Spalte B mit jenem in Splate F übereinstimmt.
+Der SVERWEIS ist so etwas wie eine Suche. Aus den Spalten F und G wird die Splate C mit Werten befüllt. Splate C wir aus der Spalte G befüllt, wenn der Wert in Spalte A mit jenem in Splate F übereinstimmt.
 
 ### Arbeitsblatt: SUMMEWENN
 
@@ -110,7 +110,7 @@ Das ist ganz ähnlich wie Summe Wenn, nur das hier keine Summe, sondern die Anza
 
 ### Arbeitsblatt: ANZAHL2
 
-x
+Zählt die Werte in einem Bereich, unabhängig vom Datentyp, außer leere Zellen.
 
 ### Arbeitsblatt: VERKETTEN
 
