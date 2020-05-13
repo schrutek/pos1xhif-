@@ -8,21 +8,21 @@ Zunächst erstellen wir ein Diagramm. Wie gesagt, es ist wirklich sehr einfach
 
 Im Normalfall hat man eine Tabelle bestehend aus Werten vorgegeben. In diesem Beispiel sind es die Luftwerte für die Lobau Anfang Jänner.
 
-![01](Diagramme01.png)
+![01](Diagramme01.PNG)
 
 Anschließend auf Insert klicken und das Diagramm seiner Wahl einfügen. Schon erscheint das Ergebnis, sogar in einer ganz passablen Formatierung.
 
-![02](Diagramme02.png)
+![02](Diagramme02.PNG)
 
 Wenn man nicht sicher ist, welche Diagrammart für die vorhandenen Daten passen ist, kan Excel sogar die Daten überprüfen und einen geeigneten Diagrammtyp vorschlagen. Sehr komplizert ist das nicht, da für die meisten Zahlenwerte Linien oder Balkendiagramme gut geeignet sind. Diese Diagrammtypen werden auch häufig verwendet.
 
-![03](Diagramme03.png)
+![03](Diagramme03.PNG)
 
 Auf OK klicken und das Diagramm ist da.
 
 ## Diagramme formatieren
 
-![04](Diagramme04.png)
+![04](Diagramme04.PNG)
 
 Klicket man auf das Diagramm, hat man nun merhere Möglichkeiten das Diagramm zu verändern und zu fotrmatieren.
 
@@ -32,7 +32,7 @@ Am rechten oderen DRand erscheinen drei Icons, ein Plus, ein Pinsel iúnd ein Fi
 
 Dient dazu um Elemente im Diagramm anzuzeigen oder auszublenden. Es funktioniert gleich wie ein Kontext-Menü und kann auch Untereleemente enthalten. Einfach auf die entsprechende Check-Box klicken und das gewünschte Element aktivieren, oder deaktivieren.
 
-![06](Diagramme07.png)
+![06](Diagramme07.PNG)
 
 ![05](Diagramme05.png)
 
@@ -40,13 +40,13 @@ Dient dazu um Elemente im Diagramm anzuzeigen oder auszublenden. Es funktioniert
 
 Dient zur ormatierung. Man kann hier aus einer Vielzahl unterschiedlicher Formatvorlagen auswählen.
 
-![06](Diagramme06.png)
+![06](Diagramme06.PNG)
 
 Es ist aber auch möglich das Diagramm selbst zu gestalten, wie man möchte. Wir haben das bereits in Power-Point kennen gelernt. Hier funktioniert es ganz ähnlich. Um eine Balkenreihe (in einem Balkendiagramm) zu formatieren, diese einfach anklicken. Die Balkenreihe wird hervorgehoben. Anschließend kann man die Reihe belibig formatieren. Möchte man nur ein Element formatieren, also nur einen Balken, klickt man einfach auf den Balken, den man formatieren möchte um ihn zu aktivieren. Die folgende Bilderreihe veranschulicht das etwas:
 
 Die DatenrBalkenreihe einfach anklicken:
 
-![05](Diagramme05_01.png)
+![05](Diagramme05_01.PNG)
 
 Dann dieFormatierung ändern:
 
@@ -54,7 +54,7 @@ Dann dieFormatierung ändern:
 
 Oder nur einen einzelen baklen hervorheben, weil man dessen Wert besonders markieren möchte:
 
-![05](Diagramme05_03.png)
+![05](Diagramme05_03.PNG)
 
 ### Das Fitler-Icon
 
@@ -70,7 +70,7 @@ Die Tabelle hat mehrere Spalten mit unterscheidlichen Einheiten. Es macht natür
 
 Die Windrichtung ist wiederum ein Wert, der in einem Balkendiagramm oder Liniendiagramm gar keinen Sinne ergibt.
 
-![06](Diagramme08.png)
+![06](Diagramme08.PNG)
 
 Also die Spalten entsprechend gruppieren, bevor man das Diagramm erstellt.
 
@@ -78,9 +78,9 @@ Nun kann amn auch die Axenbeschriftung einblenden und mit der Einheit der Werte 
 
 Einfach kopieren:
 
-![06](Diagramme11.png)
+![06](Diagramme11.PNG)
 
-![06](Diagramme12.png)
+![06](Diagramme12.PNG)
 
 ## Das Datenrechteck
 
@@ -88,7 +88,7 @@ Excelkann Daten für das Diagramm am besten analysieren, wenn sie rechteckig aus
 
 Es kann natürlich auch vorkommen, dass Datennicht sauber aneinader gereiht sind, sondern sich dazuischen Splaten mit anderen Daten befinden, die nicht ins Diagramm sollen. Dann ist es ratsam, den Datenblock, Splate für Splate auszuwählen und auch nicht auf die Überschriften vergessen.
 
-![06](Diagramme13.png)
+![06](Diagramme13.PNG)
 
 **Wichtig** In der ersten Splate, also der beschriftungsspalte, nicht die Überschriftenzelle vergessen. In diesem Beispiel steht "Datum" drinnen, die kann aber auch leer sein. Dann übersieht man sie schnell. Excel kann dann die Daten nicht korrekt analysieren.
 
@@ -96,15 +96,15 @@ Es kann natürlich auch vorkommen, dass Datennicht sauber aneinader gereiht sind
 
 Man kann einem bestehenden Diagramm Datebnreien hinzufügen oder auch wieder löschen. Dazu im Ribbon auf das Chart Tools und dann auf Select Data klicken. (siehe Screenshot) .
 
-![06](Diagramme09.png)
+![06](Diagramme09.PNG)
 
 Im Dialogfemster das dann ersheint, kann man die Datenreihen editieren:
 
-![06](Diagramme10.png)
+![06](Diagramme10.PNG)
 
 Möchte man eine datenreihe hinzufügen, auf Add klicken. Dann erscheint folgendes Fenster:
 
-![06](Diagramme17.png)
+![06](Diagramme17.PNG)
 
 Das Fenster enthält 2 Zeilen. Hier wählt man in der oberen Zeile, die zelle aus, welche sdie Überschrift enthält. in der Zeile darunter den bereich, deren Werte im Diagramm dargestellt werden sollen. Dann auf OK klicken.
 
@@ -114,11 +114,11 @@ Wie bereits eerwähnt, gibt es Diagrammtypen, die sich für die darstellung ubnt
 
 Nicht immer eignet sich das Tortendiagramm (Kreisdiagramm). Möchte man 3 Datenreihen in einem Tortendiagramm dastellen, funktioniert das natürlich nicht, da das Tortendiagramm nur eine Datenreihe darstellen kann.
 
-![06](Diagramme14.png)
+![06](Diagramme14.PNG)
 
-![06](Diagramme15.png)
+![06](Diagramme15.PNG)
 
-![06](Diagramme16.png)
+![06](Diagramme16.PNG)
 
 Obwohl ich hier 3 Spalten für das Diagramm gewählt habe, ist nur eine Splate im Kreisdiagramm sichtab, nämlich die erste. Alle anderen werden ignoriert. Also aufpassen, welches Diagramm am für welche Problemstellung verwendet.
 
@@ -126,4 +126,4 @@ Obwohl ich hier 3 Spalten für das Diagramm gewählt habe, ist nur eine Splate i
 
 Manchmal ist es ratsam große Diagramme, die viele Daten enthalten auf ein eigenes Arbeitsblatt zu verschieben. Das funktioniert so:
 
-![06](Diagramme18.png)
+![06](Diagramme18.PNG)
