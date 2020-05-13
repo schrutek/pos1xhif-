@@ -108,13 +108,11 @@ Möchte man eine datenreihe hinzufügen, auf Add klicken. Dann erscheint folgend
 
 Das Fenster enthält 2 Zeilen. Hier wählt man in der oberen Zeile, die zelle aus, welche sdie Überschrift enthält. in der Zeile darunter den bereich, deren Werte im Diagramm dargestellt werden sollen. Dann auf OK klicken.
 
-## Probleme mit Zahlen in Überschriften
+## Das richtige Diagramm verwwenden
 
 Wie bereits eerwähnt, gibt es Diagrammtypen, die sich für die darstellung ubnterschiedlichster Werte sehr gut eignen. Das Balken oder Liniendiagramm, zum Beispiel.Aber es gint noch andere.
 
 Nicht immer eignet sich das Tortendiagramm (Kreisdiagramm). Möchte man 3 Datenreihen in einem Tortendiagramm dastellen, funktioniert das natürlich nicht, da das Tortendiagramm nur eine Datenreihe darstellen kann.
-
-![06](Diagramme14.PNG)
 
 ![06](Diagramme15.PNG)
 
